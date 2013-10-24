@@ -1,0 +1,5 @@
+
+Rele	KEYWORD1
+Estado	KEYWORD2
+Liga	KEYWORD2
+Desliga	KEYWORD2
