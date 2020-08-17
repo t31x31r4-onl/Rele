@@ -1,7 +1,9 @@
 /*
+
  Controle de reles - 
 
- (C) Copyright 2013 teixeiraa@gmail.com
+ (C) Copyright 2013 teixeiraa@gmail.com   (tex)
+ 
  */
 
 /*
