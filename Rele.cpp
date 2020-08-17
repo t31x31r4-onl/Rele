@@ -1,9 +1,7 @@
 /*
-
  Controle de reles - 
 
  (C) Copyright 2013 teixeiraa@gmail.com
-
  */
 
 /*
@@ -12,7 +10,6 @@ Ref.: http://robomaniablog.blogspot.com.br/2012/11/arduino-tutorial-6-escrever-u
 
 #include "Arduino.h"
 #include "rele.h"
-
 
 /*
 byte RelesPins[4] = {3, 2, 1, 0};
